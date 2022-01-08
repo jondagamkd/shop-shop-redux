@@ -13,7 +13,7 @@ A small e-commerce example website which has been refactored to use REDUX.  Come
 ![pic of application](/client/src/assets/shopshop.gif)
 
 ## Deployment
-https://pass-stache-sadboitay.herokuapp.com/
+https://pure-reaches-05294.herokuapp.com/
 
 
 ## License
